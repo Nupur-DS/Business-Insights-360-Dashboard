@@ -89,7 +89,7 @@ Absolute Error %
 
 ### 🏠 Page 1: Home
 
-![Home View](screenshots/Home.png)
+![Home View](screenshots/Home.PNG)
 
 **Purpose:** Central navigation hub — the first thing any user sees.
 
@@ -104,7 +104,7 @@ Absolute Error %
 
 ### 💰 Page 2: Finance View
 
-![Finance View](screenshots/Finance View.png)
+![Finance View](screenshots/Finance View.PNG)
 
 **Purpose:** Give Finance teams and leadership a complete picture of revenue, costs, and profitability — sliceable by customer, region, segment, and year.
 
@@ -128,7 +128,7 @@ Absolute Error %
 
 ### 🚚 Page 3: Supply Chain View
 
-![Supply Chain View](screenshots/Supply Chain View.png)
+![Supply Chain View](screenshots/Supply Chain View.PNG)
 
 **Purpose:** Help Supply Chain teams identify forecast gaps, excess inventory, and out-of-stock risks before they damage customer relationships and revenue.
 
@@ -155,7 +155,7 @@ Absolute Error %
 
 ### 📣 Page 4: Marketing View
 
-![Marketing View](screenshots/Marketing.png)
+![Marketing View](screenshots/Marketing.PNG)
 
 **Purpose:** Help Marketing understand which products and regions are driving profitable growth — and where spend is not converting to margin.
 
@@ -183,7 +183,7 @@ Absolute Error %
 
 ### 🤝 Page 5: Sales View
 
-![Sales View](screenshots/Sales View.png)
+![Sales View](screenshots/Sales View.PNG)
 
 **Purpose:** Give Sales teams a granular view of customer and segment performance — to prioritize high-value relationships and flag underperformers.
 
@@ -211,7 +211,7 @@ Absolute Error %
 
 ### 👔 Page 6: Executive View
 
-![Executive View](screenshots/executive.png)
+![Executive View](screenshots/executive.PNG)
 
 **Purpose:** Give the C-Suite a single-page summary of everything that matters — revenue, profitability, market share, and regional performance — without needing to navigate other views.
 
