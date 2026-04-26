@@ -89,7 +89,7 @@ Absolute Error %
 
 ### 🏠 Page 1: Home
 
-![Home View](screenshots/home.png)
+![Home View](screenshots/Home.png)
 
 **Purpose:** Central navigation hub — the first thing any user sees.
 
@@ -104,7 +104,7 @@ Absolute Error %
 
 ### 💰 Page 2: Finance View
 
-![Finance View](screenshots/finance.png)
+![Finance View](screenshots/Finance View.png)
 
 **Purpose:** Give Finance teams and leadership a complete picture of revenue, costs, and profitability — sliceable by customer, region, segment, and year.
 
@@ -128,7 +128,7 @@ Absolute Error %
 
 ### 🚚 Page 3: Supply Chain View
 
-![Supply Chain View](screenshots/supply_chain.png)
+![Supply Chain View](screenshots/Supply Chain View.png)
 
 **Purpose:** Help Supply Chain teams identify forecast gaps, excess inventory, and out-of-stock risks before they damage customer relationships and revenue.
 
@@ -155,7 +155,7 @@ Absolute Error %
 
 ### 📣 Page 4: Marketing View
 
-![Marketing View](screenshots/marketing.png)
+![Marketing View](screenshots/Marketing.png)
 
 **Purpose:** Help Marketing understand which products and regions are driving profitable growth — and where spend is not converting to margin.
 
@@ -183,7 +183,7 @@ Absolute Error %
 
 ### 🤝 Page 5: Sales View
 
-![Sales View](screenshots/sales.png)
+![Sales View](screenshots/Sales View.png)
 
 **Purpose:** Give Sales teams a granular view of customer and segment performance — to prioritize high-value relationships and flag underperformers.
 
