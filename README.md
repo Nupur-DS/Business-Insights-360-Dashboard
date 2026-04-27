@@ -3,9 +3,9 @@ End-to-end Power BI dashboard designed to analyze sales, finance, marketing, and
 
 ## 📁 Quick Access
 
-| Resource | Link |
+| Resource | Link | 
 |----------|------|
-| 📄 Full Dashboard PDF | [View PDF](attached in repo) |
+| 📄 Full Dashboard PDF | *attached in repo* |
 | 🎥 Video Walkthrough | *Coming soon* |
 
 
@@ -274,10 +274,10 @@ Absolute Error %
 
 ## 👩‍💻 About Me
 
-Aspiring Data Analyst passionate about turning raw data into business decisions. Skilled in Power BI, SQL, DAX, and data storytelling. Currently completing the **Codebasics Data Analytics Bootcamp**.
+Aspiring Data Analyst passionate about turning raw data into business decisions. Skilled in Power BI, SQL, DAX, and data storytelling. 
 
-📧 *[Your Email]*
-🔗 *[Your LinkedIn URL]*
+📧 *nupursrivastava94@gmail.com*
+🔗 *www.linkedin.com/in/nupur-srivastava-5456131a3*
 🐙 *[Your GitHub Profile URL]*
 
 ---
