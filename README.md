@@ -278,7 +278,7 @@ Aspiring Data Analyst passionate about turning raw data into business decisions.
 
 📧 *nupursrivastava94@gmail.com*
 🔗 *www.linkedin.com/in/nupur-srivastava-5456131a3*
-🐙 *[Your GitHub Profile URL]*
+🐙 *https://github.com/Nupur-DS*
 
 ---
 
